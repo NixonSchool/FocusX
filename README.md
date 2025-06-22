@@ -1,13 +1,13 @@
 **⏳ FocusX:**
 The Pomodoro timer for those who ‘accidentally’ code for 7 hours straight, forget to blink.
 
-**⏳ FocusX: **
+**⏳ FocusX:**
 For devs who treat hydration and blinking as optional features. 
 
-**⏳ FocusX: **
+**⏳ FocusX:**
 The Pomodoro timer for terminal addicts who said ‘just 10 more minutes’... 3 hours ago.
 
-**⏳ FocusX: **
+**⏳ FocusX:**
 A timer for the 1% of people who don’t need help starting, just stopping.
 
 Yo, listen up! Computers are becoming just as addictive as phones — maybe even worse.
