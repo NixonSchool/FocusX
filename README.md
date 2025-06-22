@@ -17,7 +17,7 @@ Chill when it’s break time, focus like a monk when it’s not. 🧘‍♂️�
 
 ![image](https://github.com/user-attachments/assets/e5465f4b-e612-4823-847f-0baca93cc048)
 
-**## ✨ Vibe Check: Features That Hit Different**
+**## ✨Features That Slap! **
 
 | Feature | Description |
 |--------|-------------|
