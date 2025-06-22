@@ -1,0 +1,3 @@
+pip install pynput pycaw ntplib pytz tzlocal screeninfo
+add it to task scheduler
+compile it for linux and mac 
