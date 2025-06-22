@@ -1,5 +1,5 @@
 **## ⏳ FocusX:**
-“The Pomodoro timer for computer gremlins who **‘accidentally’** code for 7 hours straight, forget to blink, and think Task Manager is a challenge. ”
+“The Pomodoro timer for computer gremlins who **‘accidentally’** code for 7 hours straight, forget to blink.”
 
 Yo, listen up! Computers are becoming just as addictive as phones — maybe even worse.
 FocusX is here to help you fight back: take breaks, stretch it out, then dive back into deep work.
