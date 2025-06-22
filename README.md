@@ -47,6 +47,8 @@ Copy this line and hit enter, it installs the dependencies.  <br>
 _**pip install pynput comtypes pycaw ntplib tzlocal psutil pywin32**_
 
 > ⚠️ **IMPORTANT:** You **must** run FocusX as **Administrator** at least once to enable Hardcore Mode (auto-start, input blocking, etc).
-> It might take a while before I make a new updated version, so bear with me if I don't respond or make new updates for a few months or so.
+> <br>
+> It might take a while before I make a new updated version, so bear with me if I don't respond or make new updates.
+> 💬 I am never super active online — just came here to drop this tool and dip.  
 
 Have a nice time!
