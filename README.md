@@ -34,7 +34,7 @@ Chill when it’s break time, focus like a monk when it’s not. 🧘‍♂️�
 
 Install python.
 
-Copy this line and hit enter, it installs the dependencies. 
+Copy this line and hit enter, it installs the dependencies. <br>
 _**pip install pynput comtypes pycaw ntplib tzlocal psutil pywin32**_
 
 Have a nice time!
