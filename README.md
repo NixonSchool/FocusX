@@ -32,7 +32,7 @@ Chill when it’s break time, focus like a monk when it’s not. 🧘‍♂️�
 |--------|-------------|
 | **🧠 Custom Focus & Chill Sessions** | - Focus Mode: 30–50 min no mercy. <br> - Chill session: 2–10 min cool-down. |
 | **💪 Hardcore Mode** | - No pause, no exit once started. <br> - "X" button? Disabled. <br> - Task Manager? Auto-killed. |
-| **🌙 Night Time Lockdown** | - From 12 AM – 6 AM: fullscreen blackout. <br> - Input lockdown. Go to sleep. Seriously. |
+| **🌙 Night Time Lockdown** | - From 12 AM – 6 AM: fullscreen blackout. <br> - Input lockdown. Go to sleep. Seriously.(will implement in a few...) |
 | **🛡️ Startup Persistence** | - Auto-start on Windows login. <br> - You can add it properly to perform Self-restart via Task Scheduler and startup folder. |
 
 ---
