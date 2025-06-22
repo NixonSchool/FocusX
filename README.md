@@ -43,7 +43,9 @@ Chill when it’s break time, focus like a monk when it’s not. 🧘‍♂️�
 
 Install python.
 
-Copy this line and hit enter, it installs the dependencies. <br>
+Copy this line and hit enter, it installs the dependencies.  <br>
 _**pip install pynput comtypes pycaw ntplib tzlocal psutil pywin32**_
+
+> ⚠️ **IMPORTANT:** You **must** run FocusX as **Administrator** at least once to enable Hardcore Mode (auto-start, input blocking, etc).
 
 Have a nice time!
