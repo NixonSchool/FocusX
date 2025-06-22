@@ -32,4 +32,9 @@ Chill when it’s break time, focus like a monk when it’s not. 🧘‍♂️�
 
 ### ✅ Step 1: Install Dependencies
 
-pip install pynput comtypes pycaw ntplib tzlocal psutil pywin32
+Install python.
+
+Copy this line and hit enter, it installs the dependencies. 
+_**pip install pynput comtypes pycaw ntplib tzlocal psutil pywin32**_
+
+Have a nice time!
