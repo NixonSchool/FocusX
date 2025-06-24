@@ -52,7 +52,8 @@ _**pip install pynput comtypes pycaw ntplib tzlocal psutil pywin32**_
 > 💬 I am never super active online — just came here to drop this tool and dip. <br>
 > Download version 1 if you're not interested in the strict version 2.
 
-![image](https://github.com/user-attachments/assets/2c380eed-d2ea-4de8-b2e0-e22519541bc7)
+![image](https://github.com/user-attachments/assets/a9c7947e-dee1-4aa0-87db-04eb6bdff412)
+
 
 
 Have a nice time!
