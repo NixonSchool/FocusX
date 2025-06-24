@@ -49,7 +49,10 @@ _**pip install pynput comtypes pycaw ntplib tzlocal psutil pywin32**_
 > ⚠️ **IMPORTANT:** You **must** run FocusX as **Administrator** at least once to enable Hardcore Mode (auto-start, input blocking, etc).
 > <br>
 > It might take a while before I make a new updated version, so bear with me if I don't respond or make new updates.
-> 💬 I am never super active online — just came here to drop this tool and dip.
+> 💬 I am never super active online — just came here to drop this tool and dip. <br>
 > Download version 1 if you're not interested in the strict version 2.
+
+![image](https://github.com/user-attachments/assets/2c380eed-d2ea-4de8-b2e0-e22519541bc7)
+
 
 Have a nice time!
