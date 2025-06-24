@@ -46,7 +46,7 @@ Install python.
 Copy this line and hit enter, it installs the dependencies.  <br>
 _**pip install pynput comtypes pycaw ntplib tzlocal psutil pywin32**_
 
-If I missed any dependencies, an error will appear once you run the app, just do "pip install [dependency name] and you're good to go.
+If I missed any dependencies, an error will appear once you run the app, just do "pip install [dependency name]", and you're good to go.
 
 > ⚠️ **IMPORTANT:** You **must** run FocusX as **Administrator** at least once to enable Hardcore Mode (auto-start, input blocking, etc).
 > <br>
