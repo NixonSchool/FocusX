@@ -1,4 +1,4 @@
-**⏳ FocusX:**
+**⏳ FocusX:<br>**
 ⏳The Pomodoro timer for those who ‘accidentally’ code for 7 hours straight, forget to blink.<br>
 ⏳For devs who treat hydration and eating as optional features. <br>
 ⏳The Pomodoro timer for terminal addicts who said ‘just 10 more minutes’... 5 hours ago.<br>
