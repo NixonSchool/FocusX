@@ -1,15 +1,9 @@
-**⏳ FocusX:**
-The Pomodoro timer for those who ‘accidentally’ code for 7 hours straight, forget to blink.
-
-**⏳ FocusX:**
-For devs who treat hydration and blinking as optional features. 
-
-**⏳ FocusX:**
-The Pomodoro timer for terminal addicts who said ‘just 10 more minutes’... 3 hours ago.
-
-**⏳ FocusX:**
-A timer for the 1% of people who don’t need help starting, just stopping.
-
+**⏳ FocusX:<br>**
+⏳The Pomodoro timer for those who ‘accidentally’ code for 7 hours straight, forget to blink.<br>
+⏳For devs who treat hydration and eating as optional features. <br>
+⏳The Pomodoro timer for terminal addicts who said ‘just 10 more minutes’... 5 hours ago.<br>
+⏳A timer for the 1% of people who don’t need help starting, just stopping.
+<br>
 Yo, listen up! Computers are becoming just as addictive as phones — maybe even worse.
 FocusX is here to help you fight back: take breaks, stretch it out, then dive back into deep work.
 
@@ -22,7 +16,11 @@ If you want to go full hardcore, pair FocusX with Cold Turkey Blocker.
 Together? You're a productivity superhero.
 Chill when it’s break time, focus like a monk when it’s not. 🧘‍♂️💻
 
-**## 🖼️ Interface Preview**
+**## 🖼️ Interface Preview for version 3**
+<br> 
+<img width="566" height="573" alt="image" src="https://github.com/user-attachments/assets/a86134b3-dafb-46d3-863f-a9d4b3642a6c" />
+
+**## 🖼️ Interface Preview for version 2: Strictest version Ever!😈**
 
 ![image](https://github.com/user-attachments/assets/e5465f4b-e612-4823-847f-0baca93cc048)
 
