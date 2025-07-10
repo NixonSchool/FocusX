@@ -23,6 +23,7 @@ Together? You're a productivity superhero.
 Chill when it’s break time, focus like a monk when it’s not. 🧘‍♂️💻
 
 **## 🖼️ Interface Preview for version 3**
+<br> 
 <img width="566" height="573" alt="image" src="https://github.com/user-attachments/assets/a86134b3-dafb-46d3-863f-a9d4b3642a6c" />
 
 **## 🖼️ Interface Preview for version 2**
